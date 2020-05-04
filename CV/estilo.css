@@ -1,0 +1,40 @@
+h1, h2 {
+    color: rgb(25, 25, 160); text-align: center; border: 1px solid rgb(25, 25, 160); background: rgb(170, 138, 152);
+}
+h3 {
+    color: rgb(25, 25, 160); 
+}
+
+* {
+    background: papayawhip; line-height : 33px; font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+img {
+    float:right;
+}    
+    
+#logolinkedin, #logowa {
+    width: 48px; float:left;
+}
+
+#tablaExperienciaLaboral td:nth-child(1)  {
+    min-width: 350px;
+    font-style: oblique; font-weight: 800;
+}
+
+#tablaExperienciaLaboral{
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+}
+
+#tablaExperienciaLaboral td {
+    border-bottom: solid 1px black;
+}
+
+.destacar {
+    font-weight: 800;
+   font-style: oblique;
+}
+#logoHTML, #logoCSS, #visual {
+    width: 58px; 
+}
