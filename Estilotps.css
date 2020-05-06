@@ -2,15 +2,17 @@
 *
 {
 
-    background-image: url(https://fondosmil.com/fondo/9849.jpg);
+    background-color: lavender;
 }
 
 h1{
-    font-family: 'Courier New', Courier, monospace; color: brown; text-align: center;
+    font-family: 'Courier New', Courier, monospace; color: brown; text-align: center; 
 }
 
 .destacar {
         font-family: 'Courier New', Courier, monospace; size: 2px;
 
 }
-
+#logoHTML, #logoCSS, #visual, #Javascript {
+    width: 58px; float: right; 
+}
