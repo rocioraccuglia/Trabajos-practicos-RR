@@ -1,3 +1,8 @@
+body {
+    padding: 50px;
+}
+
+
 h1, h2 {
     color: rgb(25, 25, 160); text-align: center; border: 1px solid rgb(25, 25, 160); background: rgb(170, 138, 152);
 }
