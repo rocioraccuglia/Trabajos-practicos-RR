@@ -1,18 +1,45 @@
+body {
 
-*
-{
-
-    background-color: lavender;
+    background-image: url(https://infolawcentre.blogs.sas.ac.uk/files/2019/08/ILPC-Blog-Landing-Page-Image-1080x675.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-h1{
-    font-family: 'Courier New', Courier, monospace; color: brown; text-align: center; 
+a{
+    color: white;
+}
+
+a:hover{
+    color: blue;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace;
+    color: white;
+    text-align: center;
 }
 
 .destacar {
-        font-family: 'Courier New', Courier, monospace; size: 2px;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Courier, monospace;
+    color: white;
+    line-height: 45px;
+    font-size: 20px;
+    background-color: black;
+    height: 300px;
 }
-#logoHTML, #logoCSS, #visual, #Javascript {
-    width: 58px; float: right; 
+
+.titulo{
+    line-height: 60px;
+    text-shadow: 2px 3px rgb(0, 0, 0);
+}
+
+#logoHTML,
+#logoCSS,
+#visual,
+#Javascript {
+    width: 58px;
+    margin: 10px;
+    position: relative;
+    top: 59px;
+    left: 75%;
 }
